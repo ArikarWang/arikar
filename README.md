@@ -1,4 +1,4 @@
-# arikars
+# arikar
 
 ## Project setup
 ```
